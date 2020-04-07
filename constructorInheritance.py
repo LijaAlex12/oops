@@ -1,6 +1,6 @@
 class A:
     def __init__(self):
-        print('nhhb')
+        print('init A')
     def feature1(self):
         print('feature1 A')
 
