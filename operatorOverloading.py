@@ -1,3 +1,7 @@
+# argument or type of argument different
+# or different no of parameters
+# is Method Overlaoding
+
 class Student:
 
     def __init__(self,m1,m2):
